@@ -2,4 +2,4 @@
 Rebuilding github with Tailwindcss
 
 Live:
-https://relaxed-jones-08210b.netlify.app/
+https://devdhaif.github.io/Rebuild-github/
